@@ -1,0 +1,7 @@
+POST  http://localhost:3001/api/persons
+content-type: application/json
+
+{
+    "name": "Maurice Evans Skinner Jr.",
+    "number": "1-907-347-2354"
+}
